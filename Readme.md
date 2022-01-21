@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Вадим Попов](https://up.htmlacademy.ru/htmlcss/33/user/1975459).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Зинченко](https://htmlacademy.ru/profile/zinchandrey).
 
 ---
 
